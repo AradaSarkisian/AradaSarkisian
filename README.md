@@ -5,17 +5,17 @@ In the name of GOD
 - 🏢 I'm Elmialborz org.'s manager
 
 <b> Languages that I can </b>
--HTML, CSS, JavaScript
--PHP
--Python
--C++, C
--ASP, C#
--Java
--SQL
+- HTML, CSS, JavaScript
+- PHP
+- Python
+- C++, C
+- ASP, C#
+- Java
+- SQL
 
 <b> Contact me </b>
--email1: aradasarkisian@gmail.com
--email2: admin@elmialborz.ir
+- email1: aradasarkisian@gmail.com
+- email2: admin@elmialborz.ir
 
 <!---
 AradaSarkisian/AradaSarkisian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
